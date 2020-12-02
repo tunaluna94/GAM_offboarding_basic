@@ -9,14 +9,14 @@ What the script does:
 
 It will prompt you of the email address of the user you're looking to offboarding<br/>
 It will ask for confirmation that you have entered the right email<br/>
-Define your GAM path
-Generate basic info of the user
-Force signout of the user on all devices
-Move OU of the user (you will need to specify)
-Remove the user from all Google Groups
-Randomize the users password with 25 characters
-Turn off directory settings so the user doesnt pop up in gchat
-Revokes all application specific passwords, 2SV Backup Codes and OAuth Tokens for the listed user
-Generate new backup codes
+Define your GAM path<br/>
+Generate basic info of the user<br/>
+Force signout of the user on all devices<br/>
+Move OU of the user (you will need to specify)<br/>
+Remove the user from all Google Groups<br/>
+Randomize the users password with 25 characters<br/>
+Turn off directory settings so the user doesnt pop up in gchat<br/>
+Revokes all application specific passwords, 2SV Backup Codes and OAuth Tokens for the listed user<br/>
+Generate new backup codes<br/>
 
 
