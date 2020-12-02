@@ -1,3 +1,4 @@
+#!/bin/bash
 
 read -p "What is the email of the user you want to offboard?" email
 
