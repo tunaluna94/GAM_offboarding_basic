@@ -7,8 +7,8 @@ Also before running the command please ensure your oauth token is not expired, y
 
 What the script does:
 
-It will prompt you of the email address of the user you're looking to offboarding \n
-It will ask for confirmation that you have entered the right email
+It will prompt you of the email address of the user you're looking to offboarding<br/>
+It will ask for confirmation that you have entered the right email<br/>
 Define your GAM path
 Generate basic info of the user
 Force signout of the user on all devices
